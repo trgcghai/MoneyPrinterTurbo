@@ -1,0 +1,25 @@
+{
+  "name": "moneyprinterturbo",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "homepage": "https://github.com/harry0703/MoneyPrinterTurbo#readme",
+  "bugs": {
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harry0703/MoneyPrinterTurbo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git push mine "
+  }
+}
